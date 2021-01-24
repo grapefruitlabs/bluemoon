@@ -1,0 +1,140 @@
+{
+    "days": {
+        "2018-05-07": {
+            "data": {},
+            "cumulative": {
+                "*toggl": [
+                    {
+                        "Texts": "Wage Labor code Office",
+                        "Project": "Wage Labor",
+                        "Task": NaN,
+                        "Description": "Office",
+                        "Start time": "10:27:14",
+                        "Duration": "00:59:15",
+                        "Tags": "code"
+                    },
+                    {
+                        "Texts": "Wage Labor code React",
+                        "Project": "Wage Labor",
+                        "Task": NaN,
+                        "Description": "React",
+                        "Start time": "11:26:31",
+                        "Duration": "00:54:00",
+                        "Tags": "code"
+                    },
+                    {
+                        "Texts": "Voice / German learning LL A2.2 Class",
+                        "Project": "Voice / German",
+                        "Task": NaN,
+                        "Description": "LL A2.2 Class",
+                        "Start time": "18:30:46",
+                        "Duration": "02:15:00",
+                        "Tags": "learning"
+                    }
+                ]
+            }
+        },
+        "2018-05-08": {
+            "data": {},
+            "cumulative": {
+                "*toggl": [
+                    {
+                        "Texts": "TBC collaboration Housekeeping",
+                        "Project": "TBC",
+                        "Task": NaN,
+                        "Description": "Housekeeping",
+                        "Start time": "00:40:46",
+                        "Duration": "00:37:00",
+                        "Tags": "collaboration"
+                    },
+                    {
+                        "Texts": "TBC collaboration Housekeeping",
+                        "Project": "TBC",
+                        "Task": NaN,
+                        "Description": "Housekeeping",
+                        "Start time": "09:00:24",
+                        "Duration": "00:20:00",
+                        "Tags": "collaboration"
+                    },
+                    {
+                        "Texts": "Wage Labor code React",
+                        "Project": "Wage Labor",
+                        "Task": NaN,
+                        "Description": "React",
+                        "Start time": "09:43:40",
+                        "Duration": "00:47:00",
+                        "Tags": "code"
+                    }
+                ]
+            }
+        },
+        "2018-05-11": {
+            "data": {},
+            "cumulative": {
+                "*toggl": [
+                    {
+                        "Texts": "TBC collaboration Lost Mail",
+                        "Project": "TBC",
+                        "Task": NaN,
+                        "Description": "Lost Mail",
+                        "Start time": "18:00:40",
+                        "Duration": "01:00:00",
+                        "Tags": "collaboration"
+                    },
+                    {
+                        "Texts": "2020.Q3.4) Wonder Revision",
+                        "Project": "2020.Q3.4) Wonder",
+                        "Task": NaN,
+                        "Description": "Revision",
+                        "Start time": "19:30:26",
+                        "Duration": "00:30:00",
+                        "Tags": NaN
+                    },
+                    {
+                        "Texts": "TBC collaboration Housekeeping",
+                        "Project": "TBC",
+                        "Task": NaN,
+                        "Description": "Housekeeping",
+                        "Start time": "20:00:53",
+                        "Duration": "01:38:00",
+                        "Tags": "collaboration"
+                    }
+                ]
+            }
+        },
+        "2018-05-12": {
+            "data": {},
+            "cumulative": {
+                "*toggl": [
+                    {
+                        "Texts": "2020.Q3.4) Wonder Revision",
+                        "Project": "2020.Q3.4) Wonder",
+                        "Task": NaN,
+                        "Description": "Revision",
+                        "Start time": "10:01:13",
+                        "Duration": "00:29:00",
+                        "Tags": NaN
+                    }
+                ]
+            }
+        }
+    },
+    "experiments": {},
+    "meta": {
+        "serialize_fields": [
+            "*toggl"
+        ]
+    },
+    "changelog": [
+        {
+            "day": "2021-01-24",
+            "days_affected": [
+                "2018-05-07",
+                "2018-05-08",
+                "2018-05-11",
+                "2018-05-12"
+            ],
+            "description": "test"
+        }
+    ]
+}
