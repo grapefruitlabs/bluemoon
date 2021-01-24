@@ -46,7 +46,7 @@ where the worklog might look like this:
 * Oura: requires the csv export
 * Last.fm: requires downloading all scrobble events as a csv [eg, with this](https://benjaminbenben.com/lastfm-to-csv/)
 
-## Storyteller Core Concepts
+## Core Concepts
 
 1. **Day** is the primary unit of analysis, and each day has a different measure of data availability relative to an analysis, depending on surrounding days' data
 2. **Reports** for experiments and insights are not separated from data, but are themselves data and usable in analysis
