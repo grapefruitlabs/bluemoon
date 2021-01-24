@@ -1,0 +1,6 @@
+User,Email,Client,Project,Task,Description,Billable,Start date,Start time,End date,End time,Duration,Tags,Amount ()
+uname,uname@notasite.com,,Wage Labor,,Office,No,2018-05-07,10:27:14,2018-05-07,11:26:29,00:59:15,code,
+uname,uname@notasite.com,,Wage Labor,,React,No,2018-05-07,11:26:31,2018-05-07,12:20:31,00:54:00,code,
+uname,uname@notasite.com,,Voice / German,,LL A2.2 Class,No,2018-05-07,18:30:46,2018-05-07,20:45:46,02:15:00,learning,
+uname,uname@notasite.com,,TBC,,Housekeeping,No,2018-05-08,00:40:46,2018-05-08,01:17:46,00:37:00,collaboration,
+uname,uname@notasite.com,,TBC,,Housekeeping,No,2018-05-08,09:00:24,2018-05-08,09:20:24,00:20:00,collaboration,

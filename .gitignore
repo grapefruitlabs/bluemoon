@@ -1,0 +1,6 @@
+
+*.pyc
+bluemoon_pkg/bluemoon.egg-info/PKG-INFO
+bluemoon_pkg/bluemoon.egg-info/dependency_links.txt
+bluemoon_pkg/bluemoon.egg-info/SOURCES.txt
+bluemoon_pkg/bluemoon.egg-info/top_level.txt
